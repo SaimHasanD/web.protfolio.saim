@@ -1,0 +1,28 @@
+<section>
+        <div class="first-half">
+            <h1>HELLO, I'M</h1>
+            <h1>SAIM HASAN</h1>
+            <p>I know everything that I need to create a simple website.</p>
+            <a class="me-button" href="https://web.facebook.com/profile.php?id=100032782118979">HIRE ME</a>
+        </div>>
+        <div>
+            <img src="images/saim.png" alt="">
+        </div>>
+    </section>
+    <section>
+        <div>
+            <img src="images/saim1.png" alt="">
+        </div>
+        <div>
+            <h2>ABOUT</h2>
+            <P>Now I am just a beginner level web developer.I already learned the basic HTML and CSS. I can build any simple website.Now I am practicing day and night on how to become a professional web developer. My goal right now is to be a web developer. </P>
+            <a class="cv-button" href="">Download CV</a>
+        </div>
+    </section>
+    <div id="first-line"> 
+        <b>about work portfolio contact</b>
+    </div>
+    #first-line{
+    text-align: right;
+    height: 200px;
+}
