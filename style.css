@@ -2,19 +2,26 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0%;
 }
-
+#menu{
+    text-align: right;
+    margin-top: 30px;
+    margin-right: 100px;
+    font-weight: 900;
+    color: black;
+}
+.menu{
+    padding: 40px 10px;
+}
 h1{
     font-size: 60px;
     font-weight: 300;
     size: 80px;
-    line-height: 80px;
     font-family: 'Bebas Neue', cursive;
     
 }
 h2{
     font-weight: 300;
     font-size: 48px;
-    line-height: 48px;
     font-family: 'Bebas Neue', cursive;
 }
 h3{
