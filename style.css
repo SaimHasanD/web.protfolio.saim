@@ -18,6 +18,11 @@ h2{
     font-family: 'Bebas Neue', cursive;
 }
 h3{
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+h4{
     font-weight: 700;
     font-size: 28px;
 }
@@ -122,6 +127,31 @@ section{
     padding: 20px 30px;
     margin-left: 25%;
 }
+.third-half{
+    height: auto;
+}
 .float{
     float: left;
+}
+.connected{
+text-align: center;
+}
+#stay{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Bebas Neue', cursive;
+}
+.last-half{
+    height: 50px;
+    margin: 0% 44.5%;
+}
+.icon{
+    height: 40px;
+    padding: 12px;
+    float: left;
+}
+.icon img{
+    height: 100%;
+  
+    
 }
