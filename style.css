@@ -79,7 +79,7 @@ section{
 .second-half{
     margin-top: 50px;
     height: 750px;
-    background-color:honeydew;
+    background-color:lightcyan;
 }
 .center{
     text-align: center;
@@ -92,7 +92,7 @@ section{
     height: 500px;
     margin: 1% 1% 200px 1%;
     border-radius: 10px;
-    background-color: ivory;
+    background-color: honeydew;
 }
 .project img {
     width: 100%;
@@ -158,6 +158,4 @@ text-align: center;
 }
 .icon img{
     height: 100%;
-  
-    
 }
